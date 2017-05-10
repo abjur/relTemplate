@@ -14,4 +14,3 @@ render_abj_pdf(arq, toc = FALSE)
 \description{
 Renderiza doc da ABJ usando \code{\link{pdf_document2}}.
 }
-

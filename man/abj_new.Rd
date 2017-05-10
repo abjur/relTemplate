@@ -16,4 +16,3 @@ abj_new(tipo = "pdf", nm = "relatorio.Rmd", path = "./")
 \description{
 Cria novo relatório com base em template da ABJ, com opcoes de tipo de doc.
 }
-
